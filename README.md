@@ -1,6 +1,1 @@
-.This is a simple calculator functionality achieved using Javascript
-
--HTML
--CSS 
--Javascript
-.......................
+3 easy & quick loading animation in HTML & CSS 
