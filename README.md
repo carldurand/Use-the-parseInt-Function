@@ -1,1 +1,1 @@
-3 easy & quick loading animation in HTML & CSS 
+Use the .length property to count the number of characters in the lastName variable and assign it to lastNameLength.
