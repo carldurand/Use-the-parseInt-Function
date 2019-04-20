@@ -1,1 +1,1 @@
-Use the .length property to count the number of characters in the lastName variable and assign it to lastNameLength.
+Use parseInt() in the convertToInteger function so it converts the input string str into an integer, and returns it.
