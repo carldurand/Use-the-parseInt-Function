@@ -1,14 +1,5 @@
-// Example
-var firstNameLength = 0;
-var firstName = "Ada";
+function convertToInteger(str) {
+  return parseInt(str);
+}
 
-firstNameLength = firstName.length;
-
-// Setup
-var lastNameLength = 0;
-var lastName = "Lovelace";
-
-// Only change code below this line.
-
-lastNameLength = lastName.length;
-
+convertToInteger("56");
